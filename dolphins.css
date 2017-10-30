@@ -1,0 +1,17 @@
+body{
+  font-family:Arial, Verdana, sans-serif;
+  color: #416fba;
+  padding: 10px;
+}
+
+h1{
+  font-family: Arial, Verdana, sans-serif;
+  background-color: #30ce25;
+  color: #ffffff;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 50%;
+}
